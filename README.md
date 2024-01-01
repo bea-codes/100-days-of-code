@@ -1,3 +1,3 @@
 # Read Me 
 
-## Desafio inicial em 01 de Janeiro de 2024
+## Desafio iniciado em 01 de Janeiro de 2024
