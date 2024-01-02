@@ -12,6 +12,6 @@
 **Link to work:** [Calculator App](http://www.example.com) 
 -->
 ### Day 1: 01 de Janeiro
-**Today's Progress**: 
-**Thoughts**:
-**Link(s) to work**:
+**Today's Progress**: Tentei finalizar o segundo desafio do primeiro dia do [Advent Of Code - 2023](https://adventofcode.com). 
+**Thoughts**: Percebi uma necessidade em estudar padrões de ReGEX, visto certas dificuldade que tive com manipulação de strings.
+**Link(s) to work**: ---
