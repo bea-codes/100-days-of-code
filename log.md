@@ -15,3 +15,7 @@
 **Today's Progress**: Tentei finalizar o segundo desafio do primeiro dia do [Advent Of Code - 2023](https://adventofcode.com). 
 **Thoughts**: Percebi uma necessidade em estudar padrões de ReGEX, visto certas dificuldade que tive com manipulação de strings.
 **Link(s) to work**: ---
+
+### Day 2: 02 de Janeiro
+**Today's progress:** Trabalhei mais no puzzle do Advent Of Code, tentando terminar o desafio, mas há alguns bugs que ainda não consegui resolver.
+**Thoughts**: Tentei alguns métodos sem ser ReGEX, mas acho que essa seria a melhor opção.
