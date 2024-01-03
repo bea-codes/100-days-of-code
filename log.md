@@ -19,3 +19,11 @@
 ### Day 2: 02 de Janeiro
 **Today's progress:** Trabalhei mais no puzzle do Advent Of Code, tentando terminar o desafio, mas há alguns bugs que ainda não consegui resolver.
 **Thoughts**: Tentei alguns métodos sem ser ReGEX, mas acho que essa seria a melhor opção.
+
+### Day 3: 03 de Janeiro 
+**Today's progress:** Fiz exercícios de lógica de programação no [LeetCode](https://leetcode.com) utilizando Python.
+**Thoughts:** Até agora, exercícios simples de lógica, porém o maior aprendizado a se tirar desses problemas mais simples é a comparar as soluções mais eficientes de outros programadores.
+**To-do:**
+- Aprender mais sobre operadores bitwise em Python
+- Aprender sobre Linked Lists
+
