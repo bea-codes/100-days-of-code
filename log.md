@@ -27,3 +27,7 @@
 - Aprender mais sobre operadores bitwise em Python
 - Aprender sobre Linked Lists
 
+### Day 4: 04 de Janeiro
+**Today's progress:** Fiz exercícios de lógica de programação no [LeetCode](https://leetcode.com) utilizando Python. E explorei criar scripts com p5.js
+**Thoughts:** ---
+
