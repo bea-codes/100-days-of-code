@@ -31,3 +31,7 @@
 **Today's progress:** Fiz exercícios de lógica de programação no [LeetCode](https://leetcode.com) utilizando Python. E explorei criar scripts com p5.js
 **Thoughts:** ---
 
+### Day 5: 05 de Janeiro
+**Today's progress:** Dei continuação a um script em JS com p5.js, fazendo experimento com manipulação de fontes com a biblioteca.
+**Thoughts:** ---
+
