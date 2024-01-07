@@ -35,3 +35,6 @@
 **Today's progress:** Dei continuação a um script em JS com p5.js, fazendo experimento com manipulação de fontes com a biblioteca.
 **Thoughts:** ---
 
+### Day 6: 06 de Janeiro
+**Today's progress:** Fiz alguns exercícios de lógica de programação no [LeetCode](https://leetcode.com)
+**Thoughts:** Gostaria de aumentar meu tempo de resolução dos problemas. Experimenteiusar processos diferentes na resolução dos problemas: dividir bem o problema em etapas menores, planejar antes de codificar.
