@@ -39,6 +39,10 @@
 **Today's progress:** Fiz alguns exercícios de lógica de programação no [LeetCode](https://leetcode.com)
 **Thoughts:** Gostaria de aumentar meu tempo de resolução dos problemas. Experimenteiusar processos diferentes na resolução dos problemas: dividir bem o problema em etapas menores, planejar antes de codificar.
 
-### Day 07: 07 de Janeiro
+### Day 7: 07 de Janeiro
 **Today's progress:** Mais exercícios de lógica de programação no LeetCode.
+**Thoughts:** ---
+
+### Day 8: 08 de Janeiro
+**Today's progress:** Prática com uso de classes em Python; exercícios de lógica.
 **Thoughts:** ---
