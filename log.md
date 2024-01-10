@@ -46,3 +46,8 @@
 ### Day 8: 08 de Janeiro
 **Today's progress:** Prática com uso de classes em Python; exercícios de lógica.
 **Thoughts:** ---
+
+### Day 9: 09 de Janeiro
+**Today's progress:** Resolução de problemas no LeetCode. Comecei um projeto com React e Tailwind: pretendo criar um gerador de papais de parede abstratos com p5.js.
+**Thoughts:** Estudar diferentes caminhos que outras pessoas tomaram para resolver os mesmos problemas é uma forma muito boa de alimentar os músculos da criatividade e _problem solving_. 
+
