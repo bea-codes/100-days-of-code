@@ -51,3 +51,6 @@
 **Today's progress:** Resolução de problemas no LeetCode. Comecei um projeto com React e Tailwind: pretendo criar um gerador de papais de parede abstratos com p5.js.
 **Thoughts:** Estudar diferentes caminhos que outras pessoas tomaram para resolver os mesmos problemas é uma forma muito boa de alimentar os músculos da criatividade e _problem solving_. 
 
+### Day 10: 10 de Janeiro
+**Today's progress:** Resolução de problemas no LeetCode.
+**Thoughts:** ---
