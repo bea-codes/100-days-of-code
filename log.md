@@ -54,3 +54,7 @@
 ### Day 10: 10 de Janeiro
 **Today's progress:** Resolução de problemas no LeetCode.
 **Thoughts:** ---
+
+### Day 11: 14 de Janeiro
+**Today's progress:** Resolução de alguns problemas de lógica; implementação do algoritmo de busca binária em Python.
+**Thoughts:** Primeiro período que fiquei sem fazer o desafio. Tentei programar um pouco no dia 13-01, mas não acho que foi o suficiente para contar como uma entrada no log. 
