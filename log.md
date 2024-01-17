@@ -58,3 +58,14 @@
 ### Day 11: 14 de Janeiro
 **Today's progress:** Resolução de alguns problemas de lógica; implementação do algoritmo de busca binária em Python.
 **Thoughts:** Primeiro período que fiquei sem fazer o desafio. Tentei programar um pouco no dia 13-01, mas não acho que foi o suficiente para contar como uma entrada no log. 
+
+### Day 12: 15 de Janeiro
+**Today's progress:** Resolução de problemas no CodeWars, dessa vez em Typescript
+**Thoughts:** ---
+
+### Day 13: 16 de Janeiro
+**Today's progress:** Resolução de problemas no CodeWars e LeetCode.
+
+### Day 14: 17 de Janeiro
+**Today's progress:** Continuei meu projeto utilizando p5.js. Decidir usar React no projeto, e tive alguns bugs com useEffect que foram resolvidos.
+**Thoughts:** Boa produtividade hoje.
