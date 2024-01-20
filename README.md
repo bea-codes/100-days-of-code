@@ -20,3 +20,9 @@ Inicialmente, irei focar em exercícios de lógica de progração para fortalece
 
 [Perfil do LeetCode](https://leetcode.com/bea-codes/)
 
+## Projetos
+
+### Extensão de navegador (Firefox)
+
+**Link:** https://github.com/bea-codes/vim-keys
+Uma extensão simples que adiciona atalhos de teclado para a rolagem vertical e horizontal de páginas web inspirados no VIM.
