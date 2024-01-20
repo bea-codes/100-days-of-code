@@ -25,4 +25,5 @@ Inicialmente, irei focar em exercícios de lógica de progração para fortalece
 ### Extensão de navegador (Firefox)
 
 **Link:** https://github.com/bea-codes/vim-keys
+
 Uma extensão simples que adiciona atalhos de teclado para a rolagem vertical e horizontal de páginas web inspirados no VIM.
