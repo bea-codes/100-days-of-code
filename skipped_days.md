@@ -1,1 +1,2 @@
 - Período de 11 a 13 de Janeiro (3 dias)
+- 18 de Janeiro

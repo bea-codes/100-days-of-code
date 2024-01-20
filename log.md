@@ -69,3 +69,8 @@
 ### Day 14: 17 de Janeiro
 **Today's progress:** Continuei meu projeto utilizando p5.js. Decidir usar React no projeto, e tive alguns bugs com useEffect que foram resolvidos.
 **Thoughts:** Boa produtividade hoje.
+
+### Day 15: 19 de Janeiro
+**Today's progress:** Ontem não consegui seguir com o desafio, mas hoje conclui um pequeno projeto, uma extensão para o Firefox que adiciona atalhos de teclado inspirados no editor VIM para rolagem de páginas web.
+**Thoughts:** Feliz que conclui as funcionalidades básicas desse projeto em pouco tempo, cerca de 2h. Penso em mais algumas features para adicionar
+**Link to work:** https://github.com/bea-codes/vim-keys
