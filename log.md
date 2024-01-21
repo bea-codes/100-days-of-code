@@ -74,3 +74,8 @@
 **Today's progress:** Ontem não consegui seguir com o desafio, mas hoje conclui um pequeno projeto, uma extensão para o Firefox que adiciona atalhos de teclado inspirados no editor VIM para rolagem de páginas web.
 **Thoughts:** Feliz que conclui as funcionalidades básicas desse projeto em pouco tempo, cerca de 2h. Penso em mais algumas features para adicionar
 **Link to work:** https://github.com/bea-codes/vim-keys
+
+### Day 16: 20 de Janeiro
+**Today's progress:** Dei continuidade ao projeto da extensão de navegador, começando a implementar a funcionalidade para definir se a rolagem da página será "smooth" ou "instant"
+
+
