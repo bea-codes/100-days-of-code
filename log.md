@@ -78,4 +78,6 @@
 ### Day 16: 20 de Janeiro
 **Today's progress:** Dei continuidade ao projeto da extensão de navegador, começando a implementar a funcionalidade para definir se a rolagem da página será "smooth" ou "instant"
 
-
+### Day 17: 23 de Janeiro
+**Today's progress:** Implementando o recurso de salvar configurações da extensão para o localstorage do navegador.
+**Thoughts:** ---
