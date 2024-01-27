@@ -86,3 +86,7 @@
 **Today's progress:** Comecei a criar meu site portifolio, implementei uma funcionalidade em JS em que o usuário pode selecionar se o site será exibido em inglês ou em português.
 
 **Thoughts:** Decidi não usar nenhum webframework pra esse projeto pois ele não vai exigir nenhuma complexidade muito fora do que somente HTML, CSS e vanilla JS pode oferecer. Don't want to overcomplicate things.
+
+### Day 19: 26 de Janeiro
+**Today's progress:** Dei continuidade ao site portifolio.
+**Thoughts:** ---
