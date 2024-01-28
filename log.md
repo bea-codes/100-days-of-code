@@ -90,3 +90,7 @@
 ### Day 19: 26 de Janeiro
 **Today's progress:** Dei continuidade ao site portifolio.
 **Thoughts:** ---
+
+### Day 20: 27 de Janeiro
+**Today's progress:** Dei continuidade ao site portifolio.
+**Thoughts:** ---
