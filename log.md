@@ -94,3 +94,7 @@
 ### Day 20: 27 de Janeiro
 **Today's progress:** Dei continuidade ao site portifolio.
 **Thoughts:** ---
+
+### Day 21: 01 de Fevereiro
+**Today's progress:** Continuei com meu portifolio e mexi com Next.js.
+**Thoughts:** Muito tempo desde a ultima entrada nesse log. I want to pick up the pace.
