@@ -98,3 +98,7 @@
 ### Day 21: 01 de Fevereiro
 **Today's progress:** Continuei com meu portifolio e mexi com Next.js.
 **Thoughts:** Muito tempo desde a ultima entrada nesse log. I want to pick up the pace.
+
+### Day 22: 02 de Fevereiro
+**Today's progress:** Programando um pouco em React pra dar continuidade ao meu projeto com p5js
+**Thoughts:** ---
