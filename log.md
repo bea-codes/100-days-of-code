@@ -102,3 +102,9 @@
 ### Day 22: 02 de Fevereiro
 **Today's progress:** Programando um pouco em React pra dar continuidade ao meu projeto com p5js
 **Thoughts:** ---
+
+## Day 23: 03 de Fevereiro
+**Today's progress:** Adicionando estado global para a aplicação em React com p5js.
+**Thoughts:** ---
+
+
