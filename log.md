@@ -107,4 +107,7 @@
 **Today's progress:** Adicionando estado global para a aplicação em React com p5js.
 **Thoughts:** ---
 
+### Day 24: 07 de Fevereiro
+**Today's progress:** Dei continuidade ao meu site portifólio.
+**Thoughts:** ---
 
