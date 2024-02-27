@@ -3,12 +3,15 @@
 # 2024
 <!---
 (Example 1)
- ### Day0: 01 de Janeiro 
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com) 
+ ### Day 0: 01 de Janeiro 
+**Today's Progress**: 
+**Thoughts:** 
+**Link to work:**
 -->
+## Segunda tentativa!
+Decidi reiniciar o desafio do zero e tentar novamente!
 
+### Day 01: 26 de Fevereiro
+**Today's Progress:** Comecei a codar um programa em Python que tem o objetivo de automaticamente fazer backup de arquivos selecionados na máquina para o Google Drive. Pra isso, precisar utilizar as Google APIs. Também utilizei a biblioteca `tkinter` para fazer a GUI do programa.
+**Thoughts:** Achei que a documentação das APIs do Google não é muito direta, é preciso pular de página em página que não necessariamente tem uma lógica linear pra entender alguns aspectos das APIS. O dashboard do Google Cloud também é bem poluído.
+**Link to work:**
