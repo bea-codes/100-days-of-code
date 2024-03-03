@@ -20,3 +20,8 @@ Decidi reiniciar o desafio do zero e tentar novamente!
 **Today's Progress:** Programei em Python, resolvendo exercícios de lógica de programação para minha cadeira de Aprendizado de Máquina.
 **Thoughts:** Eu programei nos últimos dias, mas me esqueci de registrar. Ops.
 **Link to work:** ---
+
+### Day 03: 2 de Março
+**Today's Progress:** Programei um script simples de web-scrapping em JS com Puppeteer.
+**Thoughts:** Achei relativamente simples utilizar a biblioteca Puppeteer, mas agora quero implementar uma forma de se autenticar com usuário e senha no site em que o script vai ser aplicado.
+**Link to work:** ---
