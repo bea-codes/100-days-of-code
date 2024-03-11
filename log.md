@@ -25,3 +25,10 @@ Decidi reiniciar o desafio do zero e tentar novamente!
 **Today's Progress:** Programei um script simples de web-scrapping em JS com Puppeteer.
 **Thoughts:** Achei relativamente simples utilizar a biblioteca Puppeteer, mas agora quero implementar uma forma de se autenticar com usuário e senha no site em que o script vai ser aplicado.
 **Link to work:** ---
+
+### Day 04: 9 de Março
+**Today's Progress:** Web scrapping em Python com Selenium e Beautiful Soup!
+
+### Day 05: 10 de Março
+**Today's Progress:** Prática com Pandas e manipulação de dados 
+
